@@ -1,0 +1,2 @@
+# blogAI
+Blogs for GenAI
